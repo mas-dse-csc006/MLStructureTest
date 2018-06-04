@@ -1,4 +1,4 @@
-# Amazon Data Analysis
+# DSE Cohort 3 - Amazon Data Analysis
 Capstone Project for Data Science & Engineering Program at UC San Diego Jacobs School of engineering. 
 
 ## Documentation
