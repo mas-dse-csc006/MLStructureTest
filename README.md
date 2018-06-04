@@ -3,9 +3,9 @@
 
 ## Documentation
 | Description        |  Location     |
-| ------------------ |:-------------:| 
-| Final Report       | right-aligned | 
-| Final Presentation | centered      |   
+|:------------------:|:-------------:| 
+| Final Report       | final/doc/    | 
+| Final Presentation | haha      |   
 
 
 ### Authors
