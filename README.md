@@ -1,8 +1,5 @@
-dse_capstone
-==============================
+# Amazon Data Analysis
 
-## Amazon Data Analysis
--------------
 
 Project Organization
 ------------
