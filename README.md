@@ -1,5 +1,5 @@
 # Amazon Data Analysis
-
+Capstone Project for Data Science & Engineering Program at UC San Diego Jacobs School of engineering. 
 
 ## Documentation
 | Description        |  Location     |
