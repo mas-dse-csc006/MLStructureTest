@@ -1,6 +1,15 @@
 # Amazon Data Analysis
 
 
+##
+
+### Authors
+* Chris Chen
+* Christopher "Toby" Moreno
+* Nirmal Budhathoki
+* Nolan Thomas
+
+
 Project Organization
 ------------
 
